@@ -4,7 +4,7 @@ The purpose of this project is to chart the population of insects over a certain
 
 ![Insect1](https://user-images.githubusercontent.com/108380062/203672843-a335059e-c7c2-4ff9-8404-5c897fe9f136.png)
 
-We used the databases from our csv files to gather and sort out the data in Tableau (links below).
+We used the databases from our csv files to gather and sort out the data in Tableau (links below...I'm hoping the Tableau links count as commits).
 
 Weather Data | Tableau Public : https://public.tableau.com/app/profile/chris.oestreich/viz/WeatherData_16689663541100/LineGraphforAvgTempperYear?publish=yes
 
