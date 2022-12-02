@@ -22,7 +22,7 @@ The README for the Machine Learning (both Initial and Advanced) are in the Googl
 
 •	Finally, the model was applied to each species separately.
 
-•	MOTH_V_BEETLE | Tableau Public
+•	MOTH_V_BEETLE | Tableau Public -- https://public.tableau.com/app/profile/andrea.mitchell6636/viz/MOTH_V_BEETLE/Sheet1?publish=yes
 
 ### Machine Learning Model (Advanced)
 
