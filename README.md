@@ -7,6 +7,7 @@ Our almost completed Google Slides are here: https://docs.google.com/presentatio
 The README for the Machine Learning (both Initial and Advanced) are in the Google Slides, but they are here below to be included in the README:
 
 Machine Learning Model (Initial)
+
 •	The initial machine learning model used was a supervised linear regression.
 •	This is defined as a supervised Machine Learning model in which the model finds the best fit linear line between the independent and dependent variable.
 •	The dependent ‘y’ variable was the number of individual insects found on a given date.
