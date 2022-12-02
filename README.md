@@ -6,7 +6,7 @@ Our almost completed Google Slides are here: https://docs.google.com/presentatio
 
 The README for the Machine Learning (both Initial and Advanced) are in the Google Slides, but they are here below to be included in the README:
 
-Machine Learning Model (Initial)
+##Machine Learning Model (Initial)
 
 •	The initial machine learning model used was a supervised linear regression.
 
@@ -24,7 +24,7 @@ Machine Learning Model (Initial)
 
 •	MOTH_V_BEETLE | Tableau Public
 
-Machine Learning Model (Advanced)
+##Machine Learning Model (Advanced)
 
 •	Based on feedback and inconclusive results, the team chose to apply a Random Forest Regression to the dataset.
 
