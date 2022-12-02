@@ -9,7 +9,9 @@ The README for the Machine Learning (both Initial and Advanced) are in the Googl
 Machine Learning Model (Initial)
 
 •	The initial machine learning model used was a supervised linear regression.
+
 •	This is defined as a supervised Machine Learning model in which the model finds the best fit linear line between the independent and dependent variable.
+
 •	The dependent ‘y’ variable was the number of individual insects found on a given date.
 •	The independent ‘X’ variables were the Average Daily Temperature (F) and Average Humidity (%).
 •	The model was applied to the full collection of families of each species combined to see if there was an overall relationship.
