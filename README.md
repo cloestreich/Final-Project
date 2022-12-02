@@ -13,20 +13,31 @@ Machine Learning Model (Initial)
 •	This is defined as a supervised Machine Learning model in which the model finds the best fit linear line between the independent and dependent variable.
 
 •	The dependent ‘y’ variable was the number of individual insects found on a given date.
+
 •	The independent ‘X’ variables were the Average Daily Temperature (F) and Average Humidity (%).
+
 •	The model was applied to the full collection of families of each species combined to see if there was an overall relationship.
+
 •	The model was then applied to a subset of the top 5 represented families in each species, as the full data set was too cumbersome to make any meaningful changes to.
+
 •	Finally, the model was applied to each species separately.
+
 •	MOTH_V_BEETLE | Tableau Public
 
 Machine Learning Model (Advanced)
 
 •	Based on feedback and inconclusive results, the team chose to apply a Random Forest Regression to the dataset.
+
 •	This supervised Machine Learning merges the output of multiple decision trees to generate a final output.
+
 •	Once again, the dependent ‘y’ variable was the number of individual insects found on a given date.
+
 •	The independent ‘X’ variables were the Average Daily Temperature (F) and Average Humidity (%).
+
 •	The model was applied to the full collection of families of each species combined to see if there was an overall relationship.
+
 •	The model was then applied to a subset of the top 5 represented families in each species, as the full data set was too cumbersome to make any meaningful changes to.
+
 •	Finally, the model was applied to each species separately.
 
 
