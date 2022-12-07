@@ -1,8 +1,16 @@
 # Final-Project
 
-For our third deliverable, we’re analyzing the top 5 family names from the two orders to see the population trends.  We’ve also included 3 weather graphs of the minimum temperature, maximum temperature, and humidity per day.
+![Insect5](https://user-images.githubusercontent.com/108380062/206322918-74c35e92-66f4-4659-bd7c-36a4c03ae593.png)
 
-Our almost completed Google Slides are here: https://docs.google.com/presentation/d/1_p1KbOZq7u8of2k3rbiGheP1LCw9jci9aMZHwpp4OmI/edit?usp=sharing
+For our 4th and final deliverable, we were able to conclude that the increasing temperatures in Denmark did not have an impact on the insects going to the light traps.  Overall, neither the data visualizations nor the machine learning were able to show a long term effect of the temperatures on the insect population that was being observed. There were variations year to year, but no long term trends were identified.
+
+While the dataset was large, it was also limiting in the fact that it was all gathered from one location. A dataset covering multiple geographic locations would be a great next step in pursuing this question.
+
+Winged insects have been around for 325 million years, and humans are but a tiny segment of their timeline. This isn’t to say that insects don’t face challenges related to humankind, as many of these night dwelling critters are affected by light pollution and habitat destruction. But it is perhaps a reminder that there is still a future to consider.
+
+Our completed Google Slides are here: https://docs.google.com/presentation/d/1_p1KbOZq7u8of2k3rbiGheP1LCw9jci9aMZHwpp4OmI/edit?usp=sharing
+
+![Insect4](https://user-images.githubusercontent.com/108380062/206322901-8d686b2f-2a10-4166-be10-929a3967388e.png)
 
 The README for the Machine Learning (both Initial and Advanced) are in the Google Slides, but they are here below to be included in the README:
 
