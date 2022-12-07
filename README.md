@@ -12,8 +12,6 @@ Our completed Google Slides are here: https://docs.google.com/presentation/d/1_p
 
 ![Insect4](https://user-images.githubusercontent.com/108380062/206322901-8d686b2f-2a10-4166-be10-929a3967388e.png)
 
-The README for the Machine Learning (both Initial and Advanced) are in the Google Slides, but they are here below to be included in the README:
-
 ### Machine Learning Model (Initial)
 
 •	The initial machine learning model used was a supervised linear regression.
